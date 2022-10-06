@@ -2,7 +2,7 @@
   "name": "apkwan-npm-deploy",
   "version": "1.0.0",
   "description": "",
-  "pbulishConfig": {
+  "publishConfig": {
     "access": "public"
   },
   "bin": "dist/index.js",
